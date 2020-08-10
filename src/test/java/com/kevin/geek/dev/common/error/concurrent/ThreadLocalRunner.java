@@ -49,7 +49,6 @@ public class ThreadLocalRunner {
         System.out.println("===================");
         System.out.println(before);
         System.out.println(after);
-        System.out.println("===================");
     }
 
 
